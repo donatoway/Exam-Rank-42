@@ -1,7 +1,7 @@
 # Exam-Rank-42
 **this repository contains the exams I took during my course at 42
 
-**ExamRank 02**
+-> **ExamRank 02** <-
 
 **FT_PRINTF**
 Contains a printf function that manages precision and width with "d, x, s" conversions this version of the printf was written in order to pass the exam as quickly as possible!
