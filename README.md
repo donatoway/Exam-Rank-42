@@ -12,3 +12,6 @@ characters that appear in either one of the strings. The display will be in the 
 
 **INTER**
 Contains a program that takes two strings and displays, without doubles, the characters that appear in both strings, in the order they appear in the first one. The display will be followed by a \n. If the number of arguments is not 2, the program displays \n.
+
+
+![yeswecan](https://user-images.githubusercontent.com/61160587/110258330-5a384a00-7fa2-11eb-8594-73f6119687e1.jpg)
